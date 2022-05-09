@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LomiaW
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C language, Linux.
+- 🌱 I’m currently learning C++ language, mySQL.
 - 📫 How to reach me ...
 
 <!---
