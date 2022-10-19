@@ -5,7 +5,10 @@
 - 🌱 I’m a self-driven learner and critical thinker.
 
 ### Languages & Tools
-- | C/C++ | Python | Oracle/SQL | JavaScript | HTML/CSS | Github | Linux | React | MongoDB
+- | C/C++  | Python |
+- | JavaScript | HTML/CSS | Bootstrap | Node.js |
+- | SQL | Oracle SQL Developer | MongoDB |
+- | Linux | Windows | Mac |
 
 ### Websites
 👉 [Portfolio](https://lomiaw.github.io/LomiaW/)
