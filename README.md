@@ -9,7 +9,9 @@
 ### Languages & Tools:
 - | C/C++ | Python | Oracle/SQL | JavaScript | HTML/CSS | Github | Linux | React |
 
-### 👉 [My Website](https://lomiaw.github.io/LomiaW/)
+### Websites
+👉 [Portfolio](https://lomiaw.github.io/LomiaW/)
+👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
 
 <!---
 LomiaW/LomiaW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
