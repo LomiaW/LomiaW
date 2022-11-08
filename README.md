@@ -7,7 +7,7 @@
 ### Languages & Tools
 - | C/C++  | Python |
 - | JavaScript | HTML/CSS | Bootstrap | Node.js |
-- | SQL | Oracle SQL Developer | MongoDB |
+- | SQL | Oracle SQL Developer | MongoDB | Postgres | NoSQL |
 - | Linux | Windows | Mac |
 
 ### Websites
