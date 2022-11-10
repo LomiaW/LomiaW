@@ -11,8 +11,9 @@
 - | Linux | Windows | Mac |
 
 ### Websites
-👉 [Portfolio](https://lomiaw.github.io/LomiaW/)
 👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
+👉 [Portfolio](https://lomiaw.github.io/LomiaW/)
+
 
 ### Connect with me
 <a href="mailto:lomia5w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=Gmail&logoColor=red"/></a>  
