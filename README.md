@@ -5,10 +5,10 @@
 - 🌱 I’m a self-driven learner and critical thinker.
 
 ### Languages & Tools
-- | C/C++  | Python |
-- | JavaScript | HTML/CSS | Bootstrap | Node.js |
-- | Oracle SQL | SQL Developer | MongoDB | Postgres | NoSQL |
-- | Linux | Windows | macOS |
+- C/C++  | Python
+- JavaScript | HTML/CSS | Bootstrap | Node.js
+- Oracle SQL | SQL Developer | MongoDB | Postgres | NoSQL
+- Linux | Windows | macOS
 
 ### Certificate
 - AWS Certified Cloud Practitioner
