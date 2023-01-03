@@ -5,9 +5,9 @@
 - 🌱 I’m a self-driven learner and critical thinker.
 
 ### Languages & Tools
-- C/C++  | Python
+- C/C++ | Python
 - JavaScript | HTML/CSS | Bootstrap | Node.js
-- Oracle SQL | SQL Developer | MongoDB | Postgres | NoSQL
+- Oracle SQL | SQL Developer | PostgreSQL | NoSQL | MongoDB
 - Linux | Windows | macOS
 
 ### Certificate
