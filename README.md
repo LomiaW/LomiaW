@@ -8,7 +8,10 @@
 - | C/C++  | Python |
 - | JavaScript | HTML/CSS | Bootstrap | Node.js |
 - | Oracle SQL | SQL Developer | MongoDB | Postgres | NoSQL |
-- | Linux | Windows | Mac |
+- | Linux | Windows | macOS |
+
+### Certificate
+- AWS Certified Cloud Practitioner
 
 ### Websites
 👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
