@@ -6,7 +6,7 @@
 
 ### Languages & Tools
 - C/C++ | Python
-- JavaScript | HTML/CSS | Bootstrap | Node.js
+- JavaScript | HTML/CSS | Bootstrap | Node.js | Express.js
 - Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB
 - Linux | Windows | macOS
 
