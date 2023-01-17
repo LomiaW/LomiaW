@@ -7,7 +7,7 @@
 ### Languages & Tools
 - C/C++ | Python
 - JavaScript | HTML/CSS | Bootstrap | Node.js
-- Oracle SQL | SQL Developer | PostgreSQL | NoSQL | MongoDB
+- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB
 - Linux | Windows | macOS
 
 ### Certificate
