@@ -9,6 +9,7 @@
 - JavaScript | HTML/CSS | Bootstrap | Node.js | Express.js
 - Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB
 - Linux | Windows | macOS
+- Docker
 
 ### Certificate
 - AWS Certified Cloud Practitioner
