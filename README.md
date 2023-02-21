@@ -5,11 +5,11 @@
 - 🌱 I’m a self-driven learner and critical thinker.
 
 ### Languages & Tools
-- C/C++ | Python | JavaScript | TypeScript | C#
-- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap |
-- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB
-- Linux | Windows | macOS
-- Docker
+- C/C++ | Python | JavaScript | TypeScript | C# |
+- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap | .NET |
+- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB |
+- Linux | Windows | macOS |
+- Docker |
 
 ### Certificate
 - AWS Certified Cloud Practitioner
