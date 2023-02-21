@@ -5,8 +5,8 @@
 - 🌱 I’m a self-driven learner and critical thinker.
 
 ### Languages & Tools
-- C/C++ | Python
-- JavaScript | TypeScript | React | HTML/CSS | Bootstrap | Node.js | Express.js
+- C/C++ | Python | JavaScript | TypeScript | C#
+- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap |
 - Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB
 - Linux | Windows | macOS
 - Docker
