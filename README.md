@@ -7,7 +7,7 @@
 ### Languages & Tools
 - C/C++ | Python | JavaScript | TypeScript | C# |
 - Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap | ASP.NET |
-- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB |
+- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB | LINQ |
 - Linux | Windows | macOS |
 - Docker |
 
