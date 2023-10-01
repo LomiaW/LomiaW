@@ -6,10 +6,10 @@
 
 ### Languages & Tools
 - C/C++ | Python | JavaScript | TypeScript | C# |
-- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap | React Native | Vue.js |
-- Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB | LINQ |
+- Node.js | Express.js | Jest.js | Nest.js | React | React Native | Vue.js | Bootstrap |
+- Oracle SQL | MySQL | PostgreSQL | NoSQL | MongoDB |
 - Linux | Windows | macOS |
-- Docker |
+- Docker | CircleCI |
 
 ### Certificate
 - AWS Certified Cloud Practitioner
