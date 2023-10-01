@@ -6,7 +6,7 @@
 
 ### Languages & Tools
 - C/C++ | Python | JavaScript | TypeScript | C# |
-- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap | React Native | iOS & Android |
+- Node.js | Express.js | Jest.js | Nest.js | React | HTML/CSS | Bootstrap | React Native | Vue.js |
 - Oracle/MS SQL | PostgreSQL | NoSQL | MongoDB | LINQ |
 - Linux | Windows | macOS |
 - Docker |
