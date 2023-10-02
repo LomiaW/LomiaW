@@ -16,7 +16,7 @@
 - AWS Certified Cloud Practitioner
 
 ### Projects Demo
-👉 [Portfolio Site](https://lomia-portfolio.netlify.app/projects)
+👉 [Portfolio Site](https://lomia-portfolio.netlify.app/)
 
 👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
 
