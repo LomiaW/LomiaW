@@ -1,8 +1,9 @@
 ## Hi there, I'm Lomia. 👋
 
 ### About me
-- 👀 I’m currently a student at Seneca College, Toronto, Canada.
-- 🌱 I’m a self-driven learner and critical thinker.
+👀 I’m studying Computer Programming at Seneca College, Toronto.
+
+🌱 I’m a self-driven learner, self-starter and critical thinker.
 
 ### Languages & Tools
 - C/C++ | Python | JavaScript | TypeScript | C# |
@@ -16,6 +17,7 @@
 
 ### Projects Demo
 👉 [Portfolio Site](https://lomia-portfolio.netlify.app/projects)
+
 👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
 
 ### Connect with me
