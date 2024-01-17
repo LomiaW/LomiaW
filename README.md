@@ -6,11 +6,12 @@
 🌱 I’m a self-driven learner, self-starter and critical thinker.
 
 ### Languages & Tools
-- C/C++ | Python | JavaScript | TypeScript | C# |
-- Node.js | Express.js | Jest.js | Nest.js | React | React Native | Vue.js | Bootstrap |
+- C/C++ | Java | Python | TypeScript | C# | Bash Shell |
+- JavaScript | Node | Express | React | Vue | Bootstrap | HTML/CSS |
+- React Native | Flutter | 
 - Oracle SQL | MySQL | PostgreSQL | NoSQL | MongoDB |
 - Linux | Windows | macOS |
-- Docker | CircleCI |
+- Docker | CircleCI | AWS | Azure |
 
 ### Certificate
 - AWS Certified Cloud Practitioner
