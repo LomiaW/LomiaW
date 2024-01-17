@@ -8,7 +8,7 @@
 ### Languages & Tools
 - C/C++ | Java | Python | TypeScript | C# | Bash Shell |
 - JavaScript | Node | Express | React | Vue | Bootstrap | HTML/CSS |
-- React Native | Flutter | 
+- React Native | Flutter | Xcode | Android Studio |
 - Oracle SQL | MySQL | PostgreSQL | NoSQL | MongoDB |
 - Linux | Windows | macOS |
 - Docker | CircleCI | AWS | Azure |
