@@ -1,7 +1,8 @@
 ## Hi there, I'm Lomia. 👋
 
 ### About me
-👀 I’m studying Computer Programming at Seneca College, Toronto.
+<p> 👀 I’m a software developer from Toronto, Canada. I'm interested in exploring new technologies and tools. 
+I do a lot of stuff and maybe you will find something interesting from here. </p>
 
 🌱 I’m a self-driven learner, self-starter and critical thinker.
 
