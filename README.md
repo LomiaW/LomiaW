@@ -64,12 +64,14 @@
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 
 
-### Projects Demo
+## Projects Demo
+
 👉 [Portfolio Site](https://lomia-portfolio.netlify.app/)
 
 👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
 
-### Connect with me
+## Connect with me
+
 <a href="mailto:lomia5w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=Gmail&logoColor=red"/><a> </a><a href="https://www.linkedin.com/in/lomiawu"><img src="https://img.shields.io/badge/-Lomia%20Wu%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <!---
