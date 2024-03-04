@@ -1,4 +1,4 @@
-## Hi there, I'm Lomia. 👋
+<h1> Hi there, I'm Lomia. 👋 </h1>
 
 ### About me
 <p> 👀 I’m a software developer from Toronto, Canada. I'm interested in exploring new technologies and tools. 
