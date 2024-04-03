@@ -67,9 +67,10 @@
 
 ## Projects Demo
 
+👉 [Museum Website](https://my-museum-app-two.vercel.app/)
+
 👉 [Portfolio Site](https://lomia-portfolio.netlify.app/)
 
-👉 [Blog Website](https://troubled-ox-robe.cyclic.app/)
 
 ## Connect with me
 
