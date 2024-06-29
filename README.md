@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Lomia 👋 </h1>
 
 ## About me
-<p> 👀 I’m a software developer based in Toronto, Canada. I'm interested in exploring different technologies and tools so I have extensive experience with Front-end, Back-end, and Full-stack. I'm a new grad from Seneca College, major in Computer Programming. I'm open to work. Feel free to reach out. </p>
+<p> 👀 I’m a full-time software engineer based in Toronto, Canada. I'm interested in exploring different technologies and tools so I have extensive experience with Front-end, Back-end, and Full-stack. Feel free to reach out. </p>
 
 
 
