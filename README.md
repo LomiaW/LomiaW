@@ -6,7 +6,7 @@
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
