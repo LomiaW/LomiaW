@@ -7,13 +7,13 @@
 ## Technical Skills
 
 ### Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash Shell](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 
 ### Backend Development
@@ -28,14 +28,14 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
 
 ### Web Development
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 
 ### Database
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 ### Platform Engineering
