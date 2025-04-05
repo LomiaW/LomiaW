@@ -4,7 +4,6 @@
 <p> 👀 I’m a full-time software engineer based in Toronto, Canada. I'm interested in exploring different technologies and tools so I have extensive experience with Front-end, Back-end, and Full-stack. Feel free to reach out. </p>
 
 
-
 ## Technical Skills
 
 ### Languages
@@ -17,19 +16,21 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
 ![Bash Shell](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 
-### Frameworks & Libraries
+### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat&logo=NestJS&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
+
+### Web Development
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 
 ### Database
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
@@ -40,23 +41,10 @@
 ### Platform Engineering
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=CircleCI&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-8A2BE2?style=flat&logo=Terraform&logoColor=white)
-
-### Operating System
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=Apple&logoColor=white)
-
-### IDE
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
 
 ### Certificate
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
@@ -67,6 +55,8 @@
 👉 [Museum Website](https://my-museum-app-two.vercel.app/)
 
 👉 [Portfolio Site](https://lomia-portfolio.netlify.app/)
+
+👉 Carpool Mobile App
 
 
 ## Connect with me
