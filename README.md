@@ -37,16 +37,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
-### Tools
+### Platform Engineering
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=CircleCI&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-8A2BE2?style=flat&logo=Terraform&logoColor=white)
 
 ### Operating System
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
