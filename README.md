@@ -1,18 +1,19 @@
 <h1 align="center"> Hi there, I'm Lomia 👋 </h1>
 
 ### About me
-<p> 👀 I’m a full-time software engineer based in Toronto, Canada. I'm interested in exploring different technologies and tools so I have extensive experience with Front-end, Back-end, and Full-stack. Feel free to reach out. </p>
+<p> 👀 I’m a full-time software engineer based in Toronto, Canada. I'm interested in exploring different technologies and tools, so I have extensive experience with Front-end, Back-end, and Full-stack. Feel free to reach out. </p>
 
 
 ### Technical Skills
 
 #### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash Shell](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 
@@ -61,8 +62,6 @@
 👉 [Museum Website](https://my-museum-app-two.vercel.app/)
 
 👉 [Portfolio Site](https://lomia-portfolio.netlify.app/)
-
-👉 Carpool Mobile App
 
 
 ### Connect with me
